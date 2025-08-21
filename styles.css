@@ -142,16 +142,15 @@ header {
 
     .container-right {
         display: block;
-        height: auto;
+        height: 50%;
         width: 100%;
         position: static;
-        padding: 40px;
+        padding: 50px;
     }
 
     img {
         position: static;
-        max-width: 88.5%
-
+        max-width: 75.5%;
     }
     
     header {
